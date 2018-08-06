@@ -226,7 +226,7 @@ input[type=submit] {
 		float: left;
 		width: 60%;
 			/* I iniially truned the text red so I can see that things were changing */
-		color: red; 
+		/* color: red;  */
 		}
 
 }
@@ -237,7 +237,7 @@ input[type=submit] {
 @media screen and (max-width: 768px) {
 	#main-container {
 		width: 100%;
-		color: green;
+		/* color: green; */
 	}
 	#masthead {
 		width: 100%;
@@ -255,7 +255,7 @@ input[type=submit] {
 
 	#main-container {
 		width: 100%;
-		color: orange;
+		/* color: orange; */
 	}
 	img {
 		width: 100%;
